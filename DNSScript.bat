@@ -1,6 +1,6 @@
 @echo off
 
-title TAMS - DNS Check Script
+title DNS Check Script
 
 color 0B
 
